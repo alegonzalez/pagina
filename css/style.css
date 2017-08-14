@@ -1,0 +1,13 @@
+body{
+  background: #2196F3;
+}
+.topic{
+
+}
+h1{
+  text-align: center;
+  color: white;
+}
+#musicRight{
+  float: right;
+}
